@@ -10,7 +10,10 @@ Yazıldığı dil : Python
 * bs4
 * json
 
-Kullanım
+### Açıklama:
+Bu uygulama animasyonlu bir şekilde hazırlanmıştır ve openweathermap API'ı kullanarak yazılmıştır.
+
+### Kullanım:
 
 
 https://user-images.githubusercontent.com/130919122/232894280-11b72dab-93da-4f26-84f3-b31ebebf61c3.mp4
