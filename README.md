@@ -11,9 +11,14 @@ Yazıldığı dil : Python
 * json
 
 Kullanım
-https://user-images.githubusercontent.com/130919122/232893675-be47ae01-fdf1-4fe9-9313-3092a2b2cf3d.mp4
+
+
+https://user-images.githubusercontent.com/130919122/232894280-11b72dab-93da-4f26-84f3-b31ebebf61c3.mp4
+
+
 
 Örnek Resimler
+
 ![Uygulama Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/Ankara.png)
 > `İl hava durumu sorgulama`
 
