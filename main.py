@@ -2,11 +2,10 @@ from tkinter import *
 from PIL import ImageTk,Image
 import requests
 from bs4 import BeautifulSoup as bs
-import requests
 import json
 
 url = "http://api.openweathermap.org/data/2.5/weather"
-api_key = "cc811f7c871c4039a49a0074dd54522c"
+api_key = "API_KEY"
 iconUrl = "http://openweathermap.org/img/wn/{}@2x.png"
 genisUrl = "https://www.havadurumu15gunluk.xyz/havadurumu/854/{}-hava-durumu-15-gunluk.html"
 
