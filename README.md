@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/130919122/232894280-11b72dab-93da-4f26
 
 
 
-Örnek Resimler
+### Örnek Resimler
 
 ![Uygulama Ekranı](https://github.com/Hamza-Eren/Weather-App/blob/main/images/Ankara.png)
 > `İl hava durumu sorgulama`
