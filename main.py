@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk, Entry, PhotoImage, Button, Label
 from PIL import ImageTk,Image
 import requests
 from bs4 import BeautifulSoup as bs
@@ -76,7 +76,7 @@ def main():
 
         
 app = Tk()
-app.iconbitmap('images/icon.ico')
+app.iconTkbitmap('images/icon.ico')
 app.title('Hava Durumu')
 app.geometry('306x230')
 app.resizable(0,0)
